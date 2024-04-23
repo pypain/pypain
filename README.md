@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @pypain
-- 👀 I’m interested in python, html, java.
-- 🌱 I’m currently learning python, html, java.
-- 📫 How to reach me: telegram - sudo_ruin; mail - kipagg795@yandex.ru
+- Kirill, 15 y.o.
+- Python, HTML, CSS, Java developer.
+- I do small projects that simplify life (essentially automation)
